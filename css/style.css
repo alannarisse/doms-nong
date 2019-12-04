@@ -25,6 +25,7 @@ header {
 	grid-template-columns: 1fr 1fr;
 }
 
+#mapDiv { overflow: visible; }
 .homepage header{
 	background: url("../images/chickenandrice_home.jpg");
 	background-repeat: no-repeat;
